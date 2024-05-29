@@ -17,13 +17,12 @@
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-  🐰Framewordk
+  #🐰Framewordk
    <br>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
     <img src="https://img.shields.io/badge/react--native-61DAFB?style=flat-square&logo=react&logoColor=whit" />
   <br>
 
-  ---
   🐰Language
   <br>
    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
@@ -51,7 +50,6 @@
   🐰Etc
   <br>
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
    
   
