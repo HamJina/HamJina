@@ -18,7 +18,7 @@
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
   
- 🐰Framewordk
+ 🐰Framework
    <br>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/react--native-61DAFB?style=flat-square&logo=react&logoColor=whit" />
