@@ -57,9 +57,7 @@
 
 
    <br>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=HamJina)]((https://velog.io/@jina_ham/posts))
-   
+  
 </div><br>
 </div>
 </div>
