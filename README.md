@@ -4,7 +4,8 @@
  
 <br>
 
- 
+<div align=center>
+  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href=https://www.instagram.com/g_na_0115>
@@ -56,5 +57,8 @@
 
 
    <br>
+
+   
 </div><br>
+</div>
 </div>
