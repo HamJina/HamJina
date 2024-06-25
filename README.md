@@ -5,7 +5,15 @@
 <br>
 
 <div align=center>
-  
+
+## 🌱 velog 🌱
+<div style="display:flex; flex-direction:row;">
+<a href="https://velog.io/@jina_ham/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
+</div><br>
+
+</a>
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href=https://www.instagram.com/g_na_0115>
