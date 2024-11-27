@@ -1,12 +1,13 @@
-<div align="left">
+<div align="center">
 
   <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/HamJina"
   width="800"
-  height="300"
+  height="400"
 />
 </a>
+<br>
 
 <br>
 
