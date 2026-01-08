@@ -43,20 +43,6 @@
      <img src="https://img.shields.io/badge/Jupyter-FA8C00?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Badge">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
 
-   <br>
-
-
-
-   ## ✏️Log ✏️ 
-   <br>
-
-<div style="display: flex; align-items: center; flex=direction: row">
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamJina&layout=compact&card_width=400&theme=radical" style="height: 160px;" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HamJina&hide=contribs,prs&show_icons=true&theme=radical" style="height: 160px;" />
-</div>
-
 
   
 
