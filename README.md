@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to HamJina's GitHub</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20HamJina's%20GitHub&fontSize=40&fontAlign=50&fontAlignY=40&desc=Backend%20Developer&descAlign=50&descAlignY=60)
 
 <p align="center">
   🚀 확장 가능하고 효율적인 서버 개발을 좋아하는 백엔드 개발자입니다.
@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<br>
 
 ## 🛠 Tech Stack
 
@@ -29,9 +31,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
-
----
+<br>
 
 ## 📁 Projects
 
@@ -41,7 +41,7 @@
 | [Petbalance-BE](https://github.com/Petbulance/Petbulance-BE) | 특수동물 서비스 Petbalance | Java, Spring Boot |
 | [ForDay_Server](https://github.com/Central-MakeUs/ForDay_Server) | 당신의 취미, 66일을 함께 채워나가요 ForDay | Java, Spring Boot |
 
----
+<br>
 
 ## 🏆 Baekjoon Tier
 
