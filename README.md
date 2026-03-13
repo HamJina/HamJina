@@ -5,6 +5,7 @@
 </p>
 <br>
 
+## 📝 About Me
 <p align="center">
   <a href="https://velog.io/@jina_ham/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
