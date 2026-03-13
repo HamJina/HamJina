@@ -1,54 +1,50 @@
-<div align="center">
+<h1 align="center">👋 Welcome to HamJina's GitHub</h1>
 
-  <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/HamJina"
-  width="720"
-  height="320"
-/>
-</a>
+<p align="center">
+  🚀 확장 가능하고 효율적인 서버 개발을 좋아하는 백엔드 개발자입니다.
+</p>
 <br>
 
-<div align=center>
+<p align="center">
+  <a href="https://velog.io/@jina_ham/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  <a href="mailto:hamjina61@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 🌱 About me 🌱
-<div style="display:flex; flex-direction:row;">
-<a href="https://velog.io/@jina_ham/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"> 
-</a>
-    <a href=https://www.instagram.com/g_na_0115>
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:hamjina61@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
-<br>
+## 🛠 Tech Stack
 
-    
-## 🔨 Stack 🔨
-<div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/spring%20boot-6DB33F?flat&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/react-61DAFB?flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/react--native-0088CC?flat&logo=react&logoColor=white" />
-<br>
-<br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/java-007396?flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3776AB?flat&logo=python&logoColor=white" />
-<br>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
-     <img src="https://img.shields.io/badge/Jupyter-FA8C00?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Badge">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+---
 
+---
 
-  
+## 📁 Projects
 
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Premind_BE](https://github.com/Hanium-Premind/Premind_BE) | AI 모의 면접관 Premind | Java, Spring Boot |
+| [Petbalance-BE](https://github.com/Petbulance/Petbulance-BE) | 특수동물 서비스 Petbalance | Java, Spring Boot |
+| [ForDay_Server](https://github.com/Central-MakeUs/ForDay_Server) | 당신의 취미, 66일을 함께 채워나가요 ForDay | Java, Spring Boot |
 
-   <br>
-  
-</div><br>
-</div>
-</div>
+---
+
+## 🏆 Baekjoon Tier
+
+<p align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hamn20"/>
+</p>
